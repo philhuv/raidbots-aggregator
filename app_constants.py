@@ -1,0 +1,2 @@
+HEROIC = 'Heroic'
+MYTHIC = 'Mythic'
